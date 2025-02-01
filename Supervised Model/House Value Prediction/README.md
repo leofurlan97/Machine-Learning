@@ -4,7 +4,6 @@ Este projeto implementa um modelo preditivo baseado no livro "Mãos à Obra: Apr
 
 ## 📁 Estrutura
 - `notebooks/` → Análises e testes no Jupyter
-- `src/` → Código-fonte do modelo
 - `data/` → Conjunto de dados (se permitido)
 - `models/` → Modelos treinados
 
