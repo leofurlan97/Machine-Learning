@@ -1,4 +1,4 @@
-# Machine-Learning
+# House Value Prediction
 
 Este projeto implementa um modelo preditivo baseado no livro "Mãos à Obra: Aprendizado de Máquina". O código foi inspirado em um dos exercícios, mas com adaptações próprias.
 
