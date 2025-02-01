@@ -1,13 +1,13 @@
 # House Value Prediction
 
-Este projeto implementa um modelo preditivo baseado no livro "Mãos à Obra: Aprendizado de Máquina". O código foi inspirado em um dos exercícios, mas com adaptações próprias.
+This project implements a predictive model based on the book 'Hands-On: Machine Learning'. The code was inspired by one of the exercises, but with custom adaptations.
 
-## 📁 Estrutura
-- `data/` → Conjunto de dados (se permitido)
-- `models/` → Modelos treinados
-- `notebooks/` → Análises e testes no Jupyter
+## 📁 Structure
+- `data/` → Dataset
+- `models/` → Trained models
+- `notebooks/` → Jupyter notebooks with analysis
+- `requirements.txt`
 
-## 🚀 Como executar
+## 🚀 How to execute
 ```bash
 pip install -r requirements.txt
-python src/treinar_modelo.py
